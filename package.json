@@ -1,0 +1,22 @@
+{
+  "name": "webpack-test",
+  "version": "1.0.0",
+  "description": "Repository to practive webpack configurations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiojc90/webpack-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergiojc90/webpack-test/issues"
+  },
+  "homepage": "https://github.com/sergiojc90/webpack-test#readme",
+  "devDependencies": {
+    "webpack-cli": "^4.7.0"
+  }
+}
